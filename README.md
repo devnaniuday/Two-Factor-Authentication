@@ -18,7 +18,7 @@ This is a **Laravel-based 2FA application** that adds an extra layer of security
 ## Screenshots
 
 ### 1. Login Page
-(./images/1.png)
+![login](./images/1.png)
 
 ### 2. Verification with Authenticator App
 ![Verification Page](./images/2.png)
