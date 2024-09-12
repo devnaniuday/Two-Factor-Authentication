@@ -17,22 +17,22 @@ This is a **Laravel-based 2FA application** that adds an extra layer of security
 
 ## Screenshots
 
-### 1. QR Code Generation Page
-![QR Code Generation](./images/1.png)
+### 1. Login Page
+(./images/1.png)
 
 ### 2. Verification with Authenticator App
 ![Verification Page](./images/2.png)
 
-### 3. Successful 2FA Setup
-![Successful Setup](./images/3.png)
+### 3. Verification with recovery code
+![Verification Page](./images/3.png)
 
-### 4. Login with 2FA Code
-![Login with 2FA Code](./images/4.png)
+### 4. Register page
+![Register](./images/4.png)
 
-### 5. Backup Codes Page
+### 5. Backup Codes Page and Qr scan page
 ![Backup Codes](./images/5.png)
 
-### 6. User Settings to Enable/Disable 2FA
+### 6. Dashboard
 ![User Settings](./images/6.png)
 
 ---
